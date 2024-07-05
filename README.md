@@ -5,11 +5,16 @@
 <h1 align="center">I am Harsh Priye</h1>
 
 - 🔭 I’m currently working on **Next.js** and **Full Stack**
+
 - 🌱 I'm learning new tools, tech, and methods
+
 - 🤝 I’m looking to collaborate on **Full Stack projects with ML integration**
+
 - 🌐 Visit my website: <a href="https://www.harshpriye.in" target="_blank">www.harshpriye.in</a>
+
 - 📨 React me at: <a href="mailto:harsh.rzf@gmail.com" target="_blank">harsh.rzf@gmail.com</a>
-- ⚡ Fun fact - **An avid youtube and netflix stalker**
+
+- ⚡ Fun fact - An avid youtube and netflix stalker
 
 ## Connect with me on:
 <a href="https://linkedin.com/in/harshpx" target="_blank">
