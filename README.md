@@ -22,13 +22,12 @@
 <a href="https://www.instagram.com/harshhh.hhhh?igsh=MWJrZGczNXd6MGFjMg==" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a>
-<img src="https://img.shields.io/badge/</> harshpriye.in-%23000000.svg?style=for-the-badge"/>
-
+<a href="https://www.harshpriye.in" target="_blank">
+<img src="https://img.shields.io/badge/</>Harshpriye.in-%23000000.svg?style=for-the-badge"/>
 </a>
-
-
-
+<a href="mailto:harsh.rzf@gmail.com">
+<img src="https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 
 ## 💻 Tech Stack
 
