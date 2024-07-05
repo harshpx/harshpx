@@ -26,6 +26,10 @@
 <img src="https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
+## 📊 GitHub Stats
+<img  src="https://streak-stats.demolab.com?user=harshpx&theme=aura&hide_border=true&card_width=550"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=harshpx&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
+
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -57,8 +61,3 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
-
-
-## 📊 GitHub Stats:
-<img  src="https://streak-stats.demolab.com?user=harshpx&theme=aura&hide_border=true&card_width=550"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=harshpx&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
