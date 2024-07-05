@@ -2,8 +2,6 @@
 <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
 </div>
 
-<br/>
-
 <h1 align="center">I am Harsh Priye</h1>
 
 - 🔭 I’m currently working on **Next.js** and **Full Stack**
