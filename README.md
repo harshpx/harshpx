@@ -22,6 +22,7 @@
 <a href="https://www.instagram.com/harshhh.hhhh?igsh=MWJrZGczNXd6MGFjMg==" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
+<br/>
 <a href="https://www.harshpriye.in" target="_blank">
 <img src="https://img.shields.io/badge/</>Portfolio-%23000000.svg?style=for-the-badge"/>
 </a>
