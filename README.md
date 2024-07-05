@@ -11,8 +11,6 @@
 - 📨 React me at: <a href="mailto:harsh.rzf@gmail.com" target="_blank">harsh.rzf@gmail.com</a>
 - ⚡ Fun fact - **An avid youtube and netflix stalker**
 
-<br/>
-
 ## Connect with me on:
 <a href="https://linkedin.com/in/harshpx" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
@@ -29,7 +27,6 @@
 </a>
 
 ## 💻 Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -63,6 +60,5 @@
 
 
 ## 📊 GitHub Stats:
-<!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
 <img  src="https://streak-stats.demolab.com?user=harshpx&theme=aura&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=harshpx&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/>
