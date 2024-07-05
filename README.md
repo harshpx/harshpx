@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Next.js** and **Full Stack**
 - 🌱 I'm learning new tools, tech, and methods
-- 🤝 I’m looking to collaborate on **Full Stack projects with AI integration**
+- 🤝 I’m looking to collaborate on **Full Stack projects with ML integration**
 - 🌐 Visit my website: <a href="https://www.harshpriye.in" target="_blank">www.harshpriye.in</a>
 - 📨 React me at: <a href="mailto:harsh.rzf@gmail.com" target="_blank">harsh.rzf@gmail.com</a>
 - ⚡ Fun fact - **An avid youtube and netflix stalker**
