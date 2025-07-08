@@ -14,8 +14,6 @@
 
 - 📨 Reach me at: <a href="mailto:harsh.rzf@gmail.com" target="_blank">harsh.rzf@gmail.com</a>
 
-- ⚡ Fun fact - Nocturnal developer
-
 - Check out my latest project: <a href="https://www.memoize.in" target="_blank">memoize.in</a>
 
 ## Connect with me on:
